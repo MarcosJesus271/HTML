@@ -1,0 +1,90 @@
+body, html { 
+    background-color: rgba(157, 237, 248, 0.397);
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0px;
+}
+
+footer{
+    background-color: rgba(0, 0, 0, 0.836);
+    color: white;
+    width: 100%;
+    height: 30px;
+    bottom: 0;
+    left: 0;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+
+.contato {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.836);
+}
+
+.clientes {
+    background-color: rgba(36, 35, 35, 0.863);
+    color: white;
+}
+
+.index{
+    color:white;
+    background-color: rgba(0, 0, 0, 0.836);
+    width: 100%;
+    height: 600px;
+}
+
+.login{
+    color:white;
+    background-color: rgba(0, 0, 0, 0.836);
+    width: 100%;
+    height: 600px;
+    font: 12px Arial, sans-serif;
+}
+
+.logo_padrao{
+    margin-top: 25px;
+    width: 30px;
+}
+
+.margin{
+    padding-bottom: 50px;
+}
+
+.margin2{
+    padding-top: 50px ;
+}
+
+.navbar {
+    background-color:rgba(255, 0, 0, 0.699);
+    font: 17px Arial, sans-serif;
+    font-weight: bold; 
+    color: black;
+}
+
+.produto {
+    background-color: rgba(36, 35, 35, 0.938);
+    color: white;
+}
+
+.parceiros {
+    background-color: rgba(0, 0, 0, 0.836);
+    color: white;
+    width: 100%;
+    height: 600px;    
+}
+
+.quem-somos {
+    background-color: rgba(0, 0, 0, 0.836);
+    color: white;
+    width: 100%;
+    height: 600px;
+}
